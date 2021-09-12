@@ -1,0 +1,26 @@
+#button{
+    padding: 15px 32px;
+    border-radius: 8px;
+    border:none;
+    background-color: rgb(131, 247, 208);
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+}
+.nav{
+    margin-top: 0px;
+    border-radius: 4px;
+}
+
+#table{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+h1{
+    font-style:oblique;
+    color: black;
+    text-align: center;
+
+}
